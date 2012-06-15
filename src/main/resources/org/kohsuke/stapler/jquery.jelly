@@ -3,5 +3,5 @@ Use it like <st:adjunct include="org.kohsuke.stapler.jquery"/>
 -->
 <j:jelly xmlns:j="jelly:core">
   <!-- this pointless indirection is to support full/debug mode switch in Stapler -->
-  <script src="${it.packageUrl}/jquery.full.js" type="text/javascript" />
+  <script src="${it.packageUrl}/jquery/jquery.full.js" type="text/javascript" />
 </j:jelly>
