@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.kohsuke.stapler</groupId>
   <artifactId>stapler-adjunct-jquery</artifactId>
-  <version>1.12.4-0-SNAPSHOT</version>
+  <version>1.12.4-0</version>
   <name>jQuery at http://jquery.com/</name>
 
   <dependencies>
@@ -24,7 +24,7 @@
     <connection>scm:git:git://github.com/stapler/${project.artifactId}.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/stapler/${project.artifactId}.git</developerConnection>
     <url>https://github.com/stapler/${project.artifactId}</url>
-    <tag>HEAD</tag>
+    <tag>stapler-adjunct-jquery-1.12.4-0</tag>
   </scm>
 
   <distributionManagement>
